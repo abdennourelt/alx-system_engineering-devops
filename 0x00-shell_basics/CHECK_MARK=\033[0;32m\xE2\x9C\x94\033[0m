@@ -1,3 +1,0 @@
-o -n "18.i Life is a series of commas, not periods..."
-  sleep 1
-  echo -e "\\r${CHECK_MARK} 18. Life is a seri
